@@ -1,0 +1,13 @@
+/* CSS declarations go here */
+#zipsTable{
+	height:450px;
+	overflow-y:hidden;
+	overflow-x:hidden;
+}
+#zipsTable td{
+	width:20%;
+	font-size:12pt;
+}
+.state{
+	margin-left:0;
+}
